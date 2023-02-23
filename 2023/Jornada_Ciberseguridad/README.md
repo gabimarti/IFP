@@ -11,6 +11,6 @@ Diapositivas sobre la breve presentación sobre análisis de documentos de Offic
 [MalDoc-2023](./MalDoc-2023.pdf)
 
 
-![MalDoc_portada.png]()
+![MalDoc_portada.png](MalDoc_portada.png)
 
 
