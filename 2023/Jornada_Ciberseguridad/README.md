@@ -1,6 +1,6 @@
 # Jornada de Ciberseguridad
 
-Fecha: *22/02/2023*
+Fecha: **22/02/2023**
 
 Jornada de Ciberseguridad para alumnos de SMR y ASIR en la que se llevaron a cabo diferentes ponencias sobre proyectos e investigaciones de diferentes alumnos.
 
