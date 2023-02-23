@@ -8,4 +8,8 @@ Jornada de Ciberseguridad para alumnos de SMR y ASIR en la que se llevaron a cab
 
 Diapositivas sobre la breve presentación sobr análisis de documentos de Office maliciosos.
 
+[MalDoc-2023](./MalDoc-2023.pdf)
+
+
+
 
